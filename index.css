@@ -1,0 +1,43 @@
+* {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+#increment-btn {
+  border-radius: 10px;
+  box-shadow: 5px 10px;
+  height: 40px;
+  color: darkgoldenrod;
+  background-color: darkgreen;
+  font-size: larger;
+  margin-bottom: 20px;
+}
+
+#save-btn {
+  border-radius: 10px;
+  box-shadow: 5px 10px;
+  height: 40px;
+  color: darkgreen;
+  background-color: darkgoldenrod;
+  font-size: larger;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 40px;
+}
+
+#count-el {
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+#save-el {
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
